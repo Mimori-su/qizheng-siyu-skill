@@ -1,0 +1,7 @@
+{
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "install": "java -version && python3 --version"
+}

@@ -1,0 +1,1265 @@
+{
+  "version": "2026-10-17",
+  "skill_entries": [
+    "SKILL.md",
+    "qizheng-siyu-expert/skills/qz-career/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-children/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-compatibility/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-core/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-election/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-health/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-love/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-reader/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-rectifier/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-report/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-study/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-wangshuai/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-wealth/SKILL.md"
+  ],
+  "shared_resources": [
+    "shared-resources/01-核心方法论/一象多应.md",
+    "shared-resources/01-核心方法论/单一象.md",
+    "shared-resources/01-核心方法论/叠加象.md",
+    "shared-resources/01-核心方法论/定太极-七政四余取象.md",
+    "shared-resources/01-核心方法论/术数六步推演.md",
+    "shared-resources/01-核心方法论/类象使用中的轻重先后.md",
+    "shared-resources/01-核心方法论/重合象.md",
+    "shared-resources/02-基础理论/七政四余基础知识库/七政基础-格局命名与条件.md",
+    "shared-resources/02-基础理论/七政四余基础知识库/七政基础-神煞修饰与读象.md",
+    "shared-resources/02-基础理论/五行.md",
+    "shared-resources/02-基础理论/取用与病药.md",
+    "shared-resources/02-基础理论/旺相休囚死.md",
+    "shared-resources/02-基础理论/气理象数-七政读盘框架.md",
+    "shared-resources/02-基础理论/生克合冲刑害破.md",
+    "shared-resources/02-基础理论/阳.md",
+    "shared-resources/02-基础理论/阴.md",
+    "shared-resources/02-基础理论/阴阳.md",
+    "shared-resources/03-术数模块/七政四余/七政四余断事总框架.md",
+    "shared-resources/03-术数模块/七政四余/交感通道.md",
+    "shared-resources/03-术数模块/七政四余/人际交往模型.md",
+    "shared-resources/03-术数模块/七政四余/命盘六层与元素职责.md",
+    "shared-resources/03-术数模块/七政四余/喜忌与格局-待确认事项.md",
+    "shared-resources/03-术数模块/七政四余/四核心锚点.md",
+    "shared-resources/03-术数模块/七政四余/宫位关注模型.md",
+    "shared-resources/03-术数模块/七政四余/性格修饰层-宿度与神煞.md",
+    "shared-resources/03-术数模块/七政四余/性格分析模型.md",
+    "shared-resources/03-术数模块/七政四余/恩星难星用星余奴.md",
+    "shared-resources/03-术数模块/七政四余/日月贵人与帮助力度模型.md",
+    "shared-resources/03-术数模块/七政四余/星曜力量模型.md",
+    "shared-resources/03-术数模块/七政四余/本命格局分析系统.md",
+    "shared-resources/03-术数模块/七政四余/本命格局报告模板.md",
+    "shared-resources/03-术数模块/七政四余/气数星与气数忌.md",
+    "shared-resources/04-类象字典/五行/土.md",
+    "shared-resources/04-类象字典/五行/木.md",
+    "shared-resources/04-类象字典/五行/水.md",
+    "shared-resources/04-类象字典/五行/火.md",
+    "shared-resources/04-类象字典/五行/金.md",
+    "shared-resources/04-类象字典/地支/丑.md",
+    "shared-resources/04-类象字典/地支/亥.md",
+    "shared-resources/04-类象字典/地支/十二地支类象速查.md",
+    "shared-resources/04-类象字典/地支/午.md",
+    "shared-resources/04-类象字典/地支/卯.md",
+    "shared-resources/04-类象字典/地支/子.md",
+    "shared-resources/04-类象字典/地支/寅.md",
+    "shared-resources/04-类象字典/地支/巳.md",
+    "shared-resources/04-类象字典/地支/戌.md",
+    "shared-resources/04-类象字典/地支/未.md",
+    "shared-resources/04-类象字典/地支/申.md",
+    "shared-resources/04-类象字典/地支/辰.md",
+    "shared-resources/04-类象字典/地支/酉.md",
+    "shared-resources/04-类象字典/星宿/七曜分类索引.md",
+    "shared-resources/04-类象字典/星宿/专题分类/人体类象索引.md",
+    "shared-resources/04-类象字典/星宿/专题分类/分野类象索引.md",
+    "shared-resources/04-类象字典/星宿/专题分类/性格类象索引.md",
+    "shared-resources/04-类象字典/星宿/专题分类/现代引申类象索引.md",
+    "shared-resources/04-类象字典/星宿/专题分类/职业类象索引.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/井宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/亢宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/危宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/参宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/壁宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/奎宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/女宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/娄宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/室宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/尾宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/张宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/心宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/房宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/斗宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/星宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/昴宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/柳宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/毕宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/氐宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/牛宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/箕宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/翼宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/胃宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/虚宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/角宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/觜宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/轸宿.md",
+    "shared-resources/04-类象字典/星宿/二十八宿/鬼宿.md",
+    "shared-resources/04-类象字典/星宿/二十八星宿类象速查.md",
+    "shared-resources/04-类象字典/星宿/四象/东方青龙.md",
+    "shared-resources/04-类象字典/星宿/四象/北方玄武.md",
+    "shared-resources/04-类象字典/星宿/四象/南方朱雀.md",
+    "shared-resources/04-类象字典/星宿/四象/西方白虎.md",
+    "shared-resources/04-类象字典/星宿/星宿专题分类索引.md",
+    "shared-resources/04-类象字典/星曜/十一曜/土星.md",
+    "shared-resources/04-类象字典/星曜/十一曜/太阳.md",
+    "shared-resources/04-类象字典/星曜/十一曜/月亮.md",
+    "shared-resources/04-类象字典/星曜/十一曜/月孛.md",
+    "shared-resources/04-类象字典/星曜/十一曜/木星.md",
+    "shared-resources/04-类象字典/星曜/十一曜/水星.md",
+    "shared-resources/04-类象字典/星曜/十一曜/火星.md",
+    "shared-resources/04-类象字典/星曜/十一曜/紫炁.md",
+    "shared-resources/04-类象字典/星曜/十一曜/罗睺.md",
+    "shared-resources/04-类象字典/星曜/十一曜/计都.md",
+    "shared-resources/04-类象字典/星曜/十一曜/金星.md",
+    "shared-resources/04-类象字典/星曜/十一曜类象速查.md",
+    "shared-resources/04-类象字典/星曜/四余-作用关系与取象补充.md",
+    "shared-resources/05-规则库/七政四余/五行四时喜忌-七政.md",
+    "shared-resources/05-规则库/七政四余/十一曜四时喜忌-条件分支.md",
+    "shared-resources/05-规则库/七政四余/基础关系/余奴犯主与余奴抗杀.md",
+    "shared-resources/05-规则库/七政四余/星曜入宫/星曜入宫通则.md",
+    "shared-resources/05-规则库/七政四余/星曜四时论速查.md",
+    "shared-resources/10-数据源与原始资料/七政四余-知识层次与取象边界.md",
+    "shared-resources/10-数据源与原始资料/七政四余补充/十一曜-季节条件复核.md",
+    "shared-resources/README.md"
+  ],
+  "runtime": {
+    "python": ">=3.10",
+    "full_natal_engine": "not_included_not_validated",
+    "optional_pdf_decoder": "PyMuPDF or pdfplumber",
+    "timezone_data": "system IANA or tzdata"
+  },
+  "files": [
+    {
+      "path": "README_INDEX.md",
+      "bytes": 7128,
+      "sha256": "12be2c3253c41800d1ba54a1f18320c0156ec8330f6636ef13aaed493ddc4af3"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 25585,
+      "sha256": "4203fa4315f180dd83c1c71a9b960fe0abd344fa238b1f494422abbe11ac1d3c"
+    },
+    {
+      "path": "qizheng-siyu-expert/.codebuddy-plugin/plugin.json",
+      "bytes": 2406,
+      "sha256": "bfca22cf4b3f7480c7b224748debc4a941c1be91d38d16cd4753c4decc932fc4"
+    },
+    {
+      "path": "qizheng-siyu-expert/README.md",
+      "bytes": 3443,
+      "sha256": "958645c2e172962e6a6c9a3f3b71d2ce04fcb92f08a7832d4c1697919fb1b938"
+    },
+    {
+      "path": "qizheng-siyu-expert/agents/qizheng-siyu.md",
+      "bytes": 10045,
+      "sha256": "44df00d2ca8458b5c6e45dc11e3a60053bbc94bca0900e648a1a840525e91ea5"
+    },
+    {
+      "path": "qizheng-siyu-expert/avatars/expert.png",
+      "bytes": 412938,
+      "sha256": "7bb00a5e63ccde83faade3ae5df0ff853f42e8781b9b7815acf8fccdfe02e0bb"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/SKILL.md",
+      "bytes": 5683,
+      "sha256": "2f75734ad465dc0aacf43b064844b11764487b4a2b74e65f1d3ccb038e797ebc"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/examples/career_report.sample.md",
+      "bytes": 429,
+      "sha256": "4d35f395821772444ddc41d3c2a091d86a76d224779c66c29bb2cf79e0216614"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/resources/career_framework.md",
+      "bytes": 10135,
+      "sha256": "f5a33535d3d2fa80f9d3bdc788c4024d9aca68dc19ccea6293573552e0ebe2d3"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/resources/career_report_rules.md",
+      "bytes": 4164,
+      "sha256": "a25a3c29b5754ea808812f545b54a8847dd8602a8c9df005d310b77ce30f91fd"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/resources/education_framework.md",
+      "bytes": 6668,
+      "sha256": "188889ca0c257b799ed1adb75980c7769391c57e73f1a4128e90276c584a915e"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/resources/official_career_rules.md",
+      "bytes": 3970,
+      "sha256": "f82d405dde98eee8be387e44e6515c2657716250e7031d3a3ff4ceff8aa8f3b4"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-children/SKILL.md",
+      "bytes": 2603,
+      "sha256": "e75057d1616170a6aeba7cddd8444ca47bf5fb4fd11a8fc178431392f4453f22"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-children/examples/children_report.sample.md",
+      "bytes": 429,
+      "sha256": "4e0fc2a8b11af2df97f19c5b38fb9a08cec6a2abba4f6456cc6cff7d7ac51412"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-children/resources/children_framework.md",
+      "bytes": 745,
+      "sha256": "35ffb819e2ea951fbd4914a318ab11aa90958dfa2ac571ae5c7d9cd6aba8cbf6"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-children/resources/children_report_rules.md",
+      "bytes": 792,
+      "sha256": "49252f0379bd05c1cf1e047669de7683f651a0dca1eab10e76aa94ec71cc9e64"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-compatibility/SKILL.md",
+      "bytes": 3639,
+      "sha256": "10aa4b5605abb25df3132d0b2fe5bb3b4333dcb235f0dda07ee69b2b1b1729e4"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-compatibility/resources/compatibility_framework.md",
+      "bytes": 8602,
+      "sha256": "d03ddf556f45a5d4503b88189e7a0aa8027d4b16b4fe170336d1a7ee45f185ef"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-compatibility/resources/relationship_modes.md",
+      "bytes": 5580,
+      "sha256": "83f3af60092d32eae96ac0a07621260821885db15c34c4187618b603943061ce"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-compatibility/resources/report_template.md",
+      "bytes": 5360,
+      "sha256": "911b5ef0a6bb4ab37b0beac3d3bf3de40e58b13ca506a9ef32ea430f50da7cf0"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/SKILL.md",
+      "bytes": 15222,
+      "sha256": "5f4f5e946c0633db972a31593ba049ae9d3fae28f47da20f37a71c6ace7182f0"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/examples/core_report.sample.md",
+      "bytes": 246,
+      "sha256": "741b0f15a3a5c34f9fcf5e1a6045d0c7440fa66779f182bad98ad334b4f142d9"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/core_concepts.md",
+      "bytes": 4606,
+      "sha256": "ec17e1c94ddbd5d1968f6f4967b2bf48dd7f32d967b3b360a1b2eb4ccbeb3f2a"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/degree_framework.md",
+      "bytes": 1687,
+      "sha256": "a89b546fddf0bc7e0d90bc9a1bd397fc71fa1efd619dabae401e0a31da681d79"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/dispute_risk_rules.md",
+      "bytes": 2401,
+      "sha256": "c9a34b1d82a833fb961bb902c75eae239823af073495340cf4a1bee0ccd60ce6"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/lodge_symbolism.md",
+      "bytes": 50884,
+      "sha256": "1ded163c9680a2be239a5c0dcf97b7de05d7925d94ef88905d749b4f52e899d5"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/method_boundaries.md",
+      "bytes": 4019,
+      "sha256": "62a05a75975e03d0c1846959322d849e374a9f5ba89fb1699c38a77f7b09fe76"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/named_pattern_catalog.md",
+      "bytes": 51255,
+      "sha256": "5fdbfd339cddc1b1b0c912baa23146b61abd5cc417754479ce689455699241d3"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/named_patterns.md",
+      "bytes": 5615,
+      "sha256": "c81980ae7a4fa12d06d24fa0c7794e0176bf6d0bb37502334c890d22e84949e5"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/original_vs_transit.md",
+      "bytes": 24574,
+      "sha256": "15c666b05a433710abe1130b0f5d584a11e062ddf44f0878ede83ff71ad47e65"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/palace_framework.md",
+      "bytes": 4044,
+      "sha256": "1b01878b76c0ef1fc8b02ceef7fe0a95ff122dfb2e9264aa1e3e1c02654cc999"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/parents_framework.md",
+      "bytes": 11397,
+      "sha256": "d97fe3fb201cfbabce1a232c776c883c976c051240d7b81dbc695b9cdb7b030c"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/qa_rules.md",
+      "bytes": 571,
+      "sha256": "9196448017092db090b95f293104c111555304c0640610a4b6d8788faff43a0d"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/report_rules.md",
+      "bytes": 2464,
+      "sha256": "6fb11a90256d49675088828b6720e234732cbeaeda33c659499c326d66836561"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/star_symbolism.md",
+      "bytes": 45415,
+      "sha256": "64d78ac062c81b4c282ab8916bb331269f5fe210739499cf077fa38a645a22c7"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/taiji_rules.md",
+      "bytes": 1501,
+      "sha256": "00e4d7264cf515e0e715f9b29139984f5d094dbdf3beca2cccb5c1dbe464f429"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/tianguan_analysis.md",
+      "bytes": 20389,
+      "sha256": "4205213e593dbd2c9e6ea4ef35ff015cedf6437ee26a6bfc9e6ccbab67f8a917"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/wuxing_tiyong_xiji.md",
+      "bytes": 2210,
+      "sha256": "d0fd80f8930571104bb191e0953d03dcfc8be4a5979bdc6c3ab9c7ef78191d63"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/scripts/build_core_report.py",
+      "bytes": 2623,
+      "sha256": "b281741be71d5bcfbb76b4eec8ea44179ef1b5a509f2faea9fb1e5fa08fddd1b"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-election/SKILL.md",
+      "bytes": 2725,
+      "sha256": "58b0c4cf7f5df1639040c336fa672c1067240e9c4cd81874100fc32c2445ba4b"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-election/examples/election_day_report.sample.md",
+      "bytes": 423,
+      "sha256": "37b9e639000f9785830d904e5134231b0f9beefd5fac9ab8dd88108c3df430db"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-election/resources/election_day_caution_rules.md",
+      "bytes": 726,
+      "sha256": "28000d568e60d389388b6c2b40f08de1743cf351a1cb2fcbb557de07692b9bd9"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-election/resources/election_day_framework.md",
+      "bytes": 809,
+      "sha256": "525e83d12b936b42df7f6b67f3fcba84facd635a0eac37c3cf746cf95631cf44"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-health/SKILL.md",
+      "bytes": 3392,
+      "sha256": "5de1ee480313d5ad9f7077ee9fc2becc6a44a00c7f1fe41820a0f91616921b2a"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-health/examples/health_report.sample.md",
+      "bytes": 569,
+      "sha256": "f288a0aa44b07424bb45bc57aaad0d75506e9765592e771c7ce1f679266d7ea8"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-health/resources/disease_symbolism_rules.md",
+      "bytes": 975,
+      "sha256": "9fbce18d9037004006755d6b79562c0b64140ba21d99f8c65227aa126ff9415e"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-health/resources/health_framework.md",
+      "bytes": 7094,
+      "sha256": "5c149430bebf22aa281302ca4110216947fddafcee0bd35b875799649dd15e9d"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-health/resources/medical_safety_rules.md",
+      "bytes": 1446,
+      "sha256": "f14b01bc0e2b455f17803776702d24a0b2bc8da2c38ff29598372e852094ea60"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/SKILL.md",
+      "bytes": 4604,
+      "sha256": "701d7922c3669064ae6713da29098896f913ccdf90e74811cbe8591768ef632c"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/examples/love_report.sample.md",
+      "bytes": 560,
+      "sha256": "d31daabc94c78746a616f7eb63c1465091c997a0937c55b9f32a47bd664a7bed"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/resources/cautious_language.md",
+      "bytes": 1422,
+      "sha256": "b4483c415c47db07fa2a17f9b4608316a00d47c68fe1ab8603e946e6fedd727b"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/resources/client_report_template.md",
+      "bytes": 5946,
+      "sha256": "4fd7c4f733f76a281cad04072f4f24a8ac623655e777556e08e48151353145b4"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/resources/compatibility_rules.md",
+      "bytes": 960,
+      "sha256": "8f42c106df28514bbea3e55eb3c9a592f00fb544212878ee6b3568ba6f6f7f38"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/resources/love_framework.md",
+      "bytes": 2208,
+      "sha256": "f79d73c1687a95ee793369d17a48851b8e055cdf0b0537b0a4bb069bd4e79376"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/resources/relationship_palace_rules.md",
+      "bytes": 5204,
+      "sha256": "67846ddd90185f759e0000bc369934fa69db2eeee9a03cdccef56742d0556ada"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/SKILL.md",
+      "bytes": 7636,
+      "sha256": "b69537550850ea5079af02cf47aabbab199ea3ff2cb8392a33e69705c22ae24d"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/examples/qz_structured_data.sample.md",
+      "bytes": 2731,
+      "sha256": "9d903da9994eef116829425da66d50d636d4925cd7a344e28677aa6e958bcd66"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/annual_period_query.md",
+      "bytes": 8567,
+      "sha256": "70ae44d4a629a56ef4f338de5a83f4d38be4997f50dfb97ca278e8b6408b288c"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/chart_reading_rules.md",
+      "bytes": 3781,
+      "sha256": "6b845085cdd17af082c7f2d8c51d6bc691bb4f865c2791c1b1c86ab210ad3789"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/data_contract.md",
+      "bytes": 12235,
+      "sha256": "60eee6197e60fceeba75bf6464316ff4b00a60e5f6dbe4ccc9ae1f463a8d774d"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/extraction_rules.md",
+      "bytes": 3176,
+      "sha256": "cf0ed485817e79c4e293e5e6ec3bbb0ed4270be7c9511bf3a8c2c9603286fd6b"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/missing_data_rules.md",
+      "bytes": 1424,
+      "sha256": "4ec2f6d54cb9e0fc483338aad936b085c967a73977cdf98de7df1e57c83e827c"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/natal_chart_input.md",
+      "bytes": 11237,
+      "sha256": "3499faec8d5c7651cb3d901a9565da4932b24cd5b15a5f581f2f0fae40724b44"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/topstar_query.md",
+      "bytes": 6189,
+      "sha256": "c627edf0ee490962a40b19bb12930705049a9e03ca5883c14c8184f183f0ee41"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/transit_star_query.md",
+      "bytes": 6352,
+      "sha256": "4732e1ac491fd3f609d4687192d8b60e45d035344695d777b8b198288ea872db"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/validation_rules.md",
+      "bytes": 2477,
+      "sha256": "802c445da2f8c549203ac25c0b541a007bb4121591caad3944b472685c10fc54"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/calculate_periods.py",
+      "bytes": 19381,
+      "sha256": "8af443a6f6316065f3296b0841dfd0388320d041086056a183f7f45e0d29f584"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/calculate_topstars.py",
+      "bytes": 5093,
+      "sha256": "955c0566a091fa48fb3b3f7aebfc381033882c290429ca65b879512658d35423"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/calculate_transits.py",
+      "bytes": 10978,
+      "sha256": "1be794b62ca0f38750a1b7ceab441cc114f9cf8fb9620904663ebbc342f3f8bb"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/check_birth_time.py",
+      "bytes": 4384,
+      "sha256": "dc6fc31319275f09acf5fbb9255bcd0930cc464b7d24c289b89adefa85da8e3e"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/extract_pdf_text.py",
+      "bytes": 3447,
+      "sha256": "f451cf8437daddb004fac9891ffede4f5b593ade28aff40d39a386c4c0d2c376"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/parse_chart_text.py",
+      "bytes": 7215,
+      "sha256": "22d80b1377ac417c210e31b8b726b4c5be03dcd13091bed89a4892c448846bb4"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/render_pdf_pages.py",
+      "bytes": 2001,
+      "sha256": "ec6dce6385544fb890b59ca883842576c0fbbffedbf1e2d1775a74af8dc785fd"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/transit_requirements.txt",
+      "bytes": 21,
+      "sha256": "f026facb8062de084559c775eada4843f65e15a1b2f4a0a07020f59749af59f3"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/validate_structured_data.py",
+      "bytes": 2154,
+      "sha256": "0453b0a4b4da67cb1edc71a57814cc58490f4fb690b02254e89e31a7b97bcd7a"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/vendor/equatorial_stellar.py",
+      "bytes": 180335,
+      "sha256": "9c69ed0d8f043ed14d6d37d2bb3ba573215e0adef363a070895d374fb8cfb6d4"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/SKILL.md",
+      "bytes": 3403,
+      "sha256": "161e68688e4916f64dd1e112d9a0dbbe632d194dff4b46ce713ad3cfc444d867"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/examples/rectification_report.sample.md",
+      "bytes": 594,
+      "sha256": "f563d81442735e6e1720cce9af7dbe1d6101877f3ecc75ef37eaf900498ed677"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/resources/birth_time_rectification.md",
+      "bytes": 2031,
+      "sha256": "3cfc1ab38bf21bc1cc06a461c5db5ebcfe90058ab4e84970a678b8bd137247b0"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/resources/event_collection_form.md",
+      "bytes": 1032,
+      "sha256": "63f49d8568ee1c7543e74675497b922a84e691aa929366abc958a5e9eccad6c9"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/resources/event_mapping_rules.md",
+      "bytes": 1179,
+      "sha256": "d3566166b8e4e2ac24681fb586cab9f1b96ed41398d0e288b8cfca17a61e3d0f"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/resources/rectification_report_rules.md",
+      "bytes": 1209,
+      "sha256": "3cdb7e8156bae5d0d601ddd11bb877cb937796f2a3fdd25caef3d131edcee992"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/SKILL.md",
+      "bytes": 10799,
+      "sha256": "5bf392e104e31deb5affc3e09bfcc9a160d44e96d4e6164577d5613543fba49b"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/examples/full_report.sample.md",
+      "bytes": 303,
+      "sha256": "f4f1017abb46c5c839c36b43c53db0f7500d369fbf48fabcd9430a227c246244"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/parents_report_template.md",
+      "bytes": 4248,
+      "sha256": "7aae01897babb3a1b8beccf72bedcc919d9ecb3019e7f0195138a54c684bc9dd"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/quick_overview_template.md",
+      "bytes": 2886,
+      "sha256": "60e75e69f05ff57b63a956ee24f4770f611c94c44d86f7e8d409ecbd57b925af"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/report_safety_rules.md",
+      "bytes": 900,
+      "sha256": "80e52811c79f9dc3ab8469fdb910b822f7db9f92be6f003e06666b449c9fe57f"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/report_sections.md",
+      "bytes": 1930,
+      "sha256": "4f78d2415f81d8b24240c8aa7343751e5ba6eecfe4e48833998562e22da92d90"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/report_style.md",
+      "bytes": 12487,
+      "sha256": "f02aeb87cfd53bda9e8cd3c95c7e46135158d666b8f36fc04bb102ef28f2f3bc"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/timing_report_template.md",
+      "bytes": 16467,
+      "sha256": "1003d783cf6be4fc3fa70edf09c2abd13e99a97c51aa34d135532ca4d6ec8c9d"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/usage_guide.md",
+      "bytes": 5376,
+      "sha256": "e1f15fe6401ea1c59361cf7df9456ee36bd45745d26362cafffbd5fe3d709b7a"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/scripts/assemble_report.py",
+      "bytes": 1534,
+      "sha256": "9d6ed88854e357164eaefa7efba22334f1f7a153ea05a3e8dba091fa2ce09117"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/SKILL.md",
+      "bytes": 2599,
+      "sha256": "130fa132b260317036d86327f83fb5f12bb87501c34625aa1addab362ce1ce59"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/examples/study_summary.sample.md",
+      "bytes": 841,
+      "sha256": "ddb0005835104493978d7d5ce860d03ff13b285356be9662e27e20f6303d8743"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/resources/chapter_qa.md",
+      "bytes": 477,
+      "sha256": "66fe7a99b1ccdaeca2579986c438054ac0ff67fb7c98948bd2ab49b3df740be2"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/resources/concept_cards.md",
+      "bytes": 253,
+      "sha256": "7bce3b053cde6141b16a85767b8e684ee65a5b19c771959a17e08e04557920aa"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/resources/course_index.md",
+      "bytes": 4767,
+      "sha256": "a0a9aa354a06ebc0247a59a5ebd32580eff77c172296d0311df0603adcf1173b"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/resources/glossary.md",
+      "bytes": 9435,
+      "sha256": "30e9e5029139472d683ee8ade87718995d2a027dcb525ef1a20ad03a3d48982a"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/resources/learning_routes.md",
+      "bytes": 791,
+      "sha256": "7e58724c785b2b5b939a89f2ccf59cc05f65ef40430cd0ddd4aaf0e13e939cb0"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wangshuai/SKILL.md",
+      "bytes": 18005,
+      "sha256": "187deeaba2449ef7b65828e1bb8c052a2a4b5e6dc120e70a9065795bfb72c799"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wealth/SKILL.md",
+      "bytes": 6219,
+      "sha256": "6cd31533722c7118401136ccf4cf36e8e807c1bc2181dc6cbdb7deb7cb2b48a0"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wealth/examples/wealth_report.sample.md",
+      "bytes": 1879,
+      "sha256": "6c9a2452522d2996deed1b7fd994f2ef7b584cdc27362b0bd23c7ed6dea87752"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wealth/resources/finance_caution_rules.md",
+      "bytes": 825,
+      "sha256": "d25a02d4cb2cf03bd651ea68729d486e18ece297884e4dfcf7f95454115bf650"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wealth/resources/wealth_framework.md",
+      "bytes": 36623,
+      "sha256": "685d0e17a8978566d5902baa3b690cddcfdf1ca9304f32046a4f2524ab3e8704"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wealth/resources/wealth_report_rules.md",
+      "bytes": 10462,
+      "sha256": "18afc0daacecc21ab2b7782a5a0d0cb7492c405d877bc0e1688d8da199676618"
+    },
+    {
+      "path": "shared-resources/01-核心方法论/一象多应.md",
+      "bytes": 8834,
+      "sha256": "c6b0dbf3a6b3e84afa811a0852cd9669a94be6e129223d61249599ad023fc0d1"
+    },
+    {
+      "path": "shared-resources/01-核心方法论/单一象.md",
+      "bytes": 9008,
+      "sha256": "7460b09fe8fa79c4967616274ae0f812dcd16d60927509092a470ba53bbf652f"
+    },
+    {
+      "path": "shared-resources/01-核心方法论/叠加象.md",
+      "bytes": 10747,
+      "sha256": "581fb8b31e705a454b188a5d4dffe5e808627ecc35a5af480bc4dd795c52008d"
+    },
+    {
+      "path": "shared-resources/01-核心方法论/定太极-七政四余取象.md",
+      "bytes": 13644,
+      "sha256": "5bafbc53b20713cf4044dabfce363af3c3476182f925eebffa40a821efc092af"
+    },
+    {
+      "path": "shared-resources/01-核心方法论/术数六步推演.md",
+      "bytes": 3535,
+      "sha256": "ad50d70cdf23594ef396bc42b13c42311226270236a19c8c01c8c9576ec11afd"
+    },
+    {
+      "path": "shared-resources/01-核心方法论/类象使用中的轻重先后.md",
+      "bytes": 15136,
+      "sha256": "635f0781e8da4f0f46cad2e54aadf3b1c8c8df360cbaecb5b77cbbb2d6f85cb1"
+    },
+    {
+      "path": "shared-resources/01-核心方法论/重合象.md",
+      "bytes": 9381,
+      "sha256": "edd8ac6f323a61b3b0ad21c4e800ddfdcf5e0e03542492b5a33e48f69d5cac3b"
+    },
+    {
+      "path": "shared-resources/02-基础理论/七政四余基础知识库/七政基础-格局命名与条件.md",
+      "bytes": 16518,
+      "sha256": "2784581f7c574eea9b51b01a85a9ee7dfda0817438362932cfce43332f99553b"
+    },
+    {
+      "path": "shared-resources/02-基础理论/七政四余基础知识库/七政基础-神煞修饰与读象.md",
+      "bytes": 13304,
+      "sha256": "cc7d01b1be75270da964d05107856e4c2a22d1c3ca821823c346bb84999475aa"
+    },
+    {
+      "path": "shared-resources/02-基础理论/五行.md",
+      "bytes": 872,
+      "sha256": "7c15f6f8416731716686679b5150fd3740a13d5bde7d4328c0d0674084ccf5aa"
+    },
+    {
+      "path": "shared-resources/02-基础理论/取用与病药.md",
+      "bytes": 410,
+      "sha256": "dc30ec5d3bc590aa6f02e9fb4d363c2fbac5b6af0c289f5d9c33f40a35bd8236"
+    },
+    {
+      "path": "shared-resources/02-基础理论/旺相休囚死.md",
+      "bytes": 932,
+      "sha256": "02437986184f52789408bf953d3956c0a06c4cae6d580a1fb5ea9e2bfb773300"
+    },
+    {
+      "path": "shared-resources/02-基础理论/气理象数-七政读盘框架.md",
+      "bytes": 3889,
+      "sha256": "d720a5fc20e4e74a90dc93cda8438ee6130e56d970fdd47ff554338fe14bb866"
+    },
+    {
+      "path": "shared-resources/02-基础理论/生克合冲刑害破.md",
+      "bytes": 2104,
+      "sha256": "e155aafc0a4ca4f75bed57ada9e537a1604c771c98f7a5574242b0b4c9d42640"
+    },
+    {
+      "path": "shared-resources/02-基础理论/阳.md",
+      "bytes": 254,
+      "sha256": "73873ec83b2126b9db1c11b4cb16f0c492d75189c6fea9db93f37b3494075354"
+    },
+    {
+      "path": "shared-resources/02-基础理论/阴.md",
+      "bytes": 254,
+      "sha256": "5fc908827ba3503aa0952cbeffa452680cabec10b8df6d55c178ad4483304206"
+    },
+    {
+      "path": "shared-resources/02-基础理论/阴阳.md",
+      "bytes": 371,
+      "sha256": "1011aa51a47ea497eb12937b7b0e3b86984b94ff7566ba6b17aa6490b19769b0"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/七政四余断事总框架.md",
+      "bytes": 7900,
+      "sha256": "d5c0184bd851a37cf8840e857d3bb8d477334fa954957220a90b442e846638d0"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/交感通道.md",
+      "bytes": 4873,
+      "sha256": "0109e26a6dc87bd6b092bcd604ea23d19067fde27e95b82ce20b5e870293e1df"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/人际交往模型.md",
+      "bytes": 6810,
+      "sha256": "8833a26fad2ca0625c12c3cc35b1fe2c270ad05daf0fa95db8d3aee8c48e0713"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/命盘六层与元素职责.md",
+      "bytes": 4133,
+      "sha256": "fd2bc2a9986b30e151c53a16e25bf43c877767d2b7ef1f3bff9f08f98aec18fa"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/喜忌与格局-待确认事项.md",
+      "bytes": 3127,
+      "sha256": "2f972f08129dd1b2e0f5677d64c9db9b96584da35b4ec6800e6a75559efe3992"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/四核心锚点.md",
+      "bytes": 1940,
+      "sha256": "0bdc9212085d5dbecf79d3c537d4cdfe093a1460626bc2824f7e772a3f9ba88f"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/宫位关注模型.md",
+      "bytes": 992,
+      "sha256": "ed35205302ad48df477cd6391a8514d73b83ae622d3882d772888e53f408a398"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/性格修饰层-宿度与神煞.md",
+      "bytes": 3697,
+      "sha256": "e2022c8a8d649ac95a3a8061c065de630576c1c613fd79b076acc52392d8bf90"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/性格分析模型.md",
+      "bytes": 3755,
+      "sha256": "85d5b0a81d2a3dfe442abe717773d8cbda3c9fccd72612214ec28d3ede38fdaf"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/恩星难星用星余奴.md",
+      "bytes": 3280,
+      "sha256": "649a1c19a050eb13057e635dc6a1885673ef419a136a34f5ec7b1d38661c3fa9"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/日月贵人与帮助力度模型.md",
+      "bytes": 3656,
+      "sha256": "9b332f4efc6769d3396649344495b421c7991defc5a5ce576a42f8b1b64955ec"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/星曜力量模型.md",
+      "bytes": 4487,
+      "sha256": "9dcd84c747cd158cde2faf1296f520f75a2e4f59a2ff92d6e0e041a1369d5310"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/本命格局分析系统.md",
+      "bytes": 21426,
+      "sha256": "adea9a78e72af4482815f1f9c8c769e0ac1f3cc9303b454fda6cf16bacd0440b"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/本命格局报告模板.md",
+      "bytes": 15273,
+      "sha256": "f0e9ef560922cbe7a0b26bd2c15b447faffa36c2c7e807d8e5d51ac999cd07b2"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/气数星与气数忌.md",
+      "bytes": 1127,
+      "sha256": "df6f1dc8f9bf47e95916efe906464f5a325871e798a606c3e0ee658943c078bd"
+    },
+    {
+      "path": "shared-resources/04-类象字典/五行/土.md",
+      "bytes": 2393,
+      "sha256": "dd69d4333cefe681e7593a798068d750390a3c0e230ece7ed14661b5da9191f4"
+    },
+    {
+      "path": "shared-resources/04-类象字典/五行/木.md",
+      "bytes": 2465,
+      "sha256": "4d26b552e66c487a66d442c147cb56e37742515d8546c69556575c811141a137"
+    },
+    {
+      "path": "shared-resources/04-类象字典/五行/水.md",
+      "bytes": 3068,
+      "sha256": "344353fd0dff5d81183ed42908db002248ccb8b5b9c154a66deb686bedda8b74"
+    },
+    {
+      "path": "shared-resources/04-类象字典/五行/火.md",
+      "bytes": 2281,
+      "sha256": "058c143ea2208911f1a1c179fed7d57f10053814c0d5b8346fb89796b3f13692"
+    },
+    {
+      "path": "shared-resources/04-类象字典/五行/金.md",
+      "bytes": 3155,
+      "sha256": "5f1ab8efa9d6e10ac5f5366baad621289bf863cb2d6bdeb3df8955fe0b058e7f"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/丑.md",
+      "bytes": 445,
+      "sha256": "2a266817ca66f8a1cffac55664cb535a4d44bbd62c7681735facbea0e3a83c4c"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/亥.md",
+      "bytes": 447,
+      "sha256": "7a1618833f68b6b021a925e0427e2a0b5e3fd8c961a4341d36ef44e856470f06"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/十二地支类象速查.md",
+      "bytes": 15557,
+      "sha256": "995889dee14e27f390fb26b1fa4c7252dcd3f4dfaa3f9a17cf7ecb4cad79d43e"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/午.md",
+      "bytes": 445,
+      "sha256": "4e4b15739001ffb21407a432a4e4f1a09b2b0e88f656f6e5b7b31eacad18fcc1"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/卯.md",
+      "bytes": 445,
+      "sha256": "2ae708fefcd7a02f451b047c9ce1e9a70ee69693a164c4e12bbc26c4991b4570"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/子.md",
+      "bytes": 445,
+      "sha256": "dbd2b217bc728a4e0579f1adb25801b5b0fb3ad63d96d751f07e7cbc5d01e2a9"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/寅.md",
+      "bytes": 445,
+      "sha256": "506cb9d4a9bb95fb7aebdb4554846ff80f6f1571a23bb2baae46409c8dbabd5f"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/巳.md",
+      "bytes": 445,
+      "sha256": "57c05f7beaace237ba1bd5df59d498d89d3b8e7b339f55096927f5cbf943db30"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/戌.md",
+      "bytes": 447,
+      "sha256": "896d78cf1386d21c1afbb749e6809cfbf5fa2dd771aa8116b59d993151538a18"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/未.md",
+      "bytes": 447,
+      "sha256": "b9a62dd6a5468f928d258096282bea83d81569505357191cb2b33bf9e4037cea"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/申.md",
+      "bytes": 447,
+      "sha256": "79a5213fe545f66654877ab661d55e3e5fd1a2375c2b6b582a996b3365ebbc77"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/辰.md",
+      "bytes": 445,
+      "sha256": "94a3c4323647e8317cd93bc46f6c67397a2d8d7882cfb233d8b062507e7064ee"
+    },
+    {
+      "path": "shared-resources/04-类象字典/地支/酉.md",
+      "bytes": 447,
+      "sha256": "559102827c9c0fe35e05ddef1bf663aa9a4c33031ab5f66931eb38ac8640cdfe"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/七曜分类索引.md",
+      "bytes": 2353,
+      "sha256": "8629d2e16e610575d06a35a4ace4a16707928840312ac3d378f11eddcf8c0da9"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/专题分类/人体类象索引.md",
+      "bytes": 3270,
+      "sha256": "bc8c5e29adce4376c34e53b604b3de9f8ebeed4acbccc4997135e34ac2114b50"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/专题分类/分野类象索引.md",
+      "bytes": 3078,
+      "sha256": "9ebd76ba21bac006a6f30f0215efbd23482173e3b25571620250f05c65b00e63"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/专题分类/性格类象索引.md",
+      "bytes": 6147,
+      "sha256": "ef10935e26e92ab0b0cecf6a6998858fa1e6944a4c7a48fe99ff1e87a92bca3a"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/专题分类/现代引申类象索引.md",
+      "bytes": 5817,
+      "sha256": "0061ff4a89fc18e78f4d33cb9f54faa364a4ad06fcfe367db6116fb85a1e5c80"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/专题分类/职业类象索引.md",
+      "bytes": 5007,
+      "sha256": "31baeba9183f99df9879c3a30ff067ca3c7f547e45efe5849e2f63949f6f8787"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/井宿.md",
+      "bytes": 14410,
+      "sha256": "8959bc4fb6ed255c63c97cee267c37aa287de03195aaaea40a2cc8edf6842993"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/亢宿.md",
+      "bytes": 13924,
+      "sha256": "3923f57a9e865cf3af53f9fe153f79f29fce437785074831d19541e4cec12395"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/危宿.md",
+      "bytes": 11749,
+      "sha256": "1ff59388457fde84cfc9a2b4abfdd7b847be800382510884029fbbbffcca3588"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/参宿.md",
+      "bytes": 12378,
+      "sha256": "225e82ccf5c3c51811784a5e6139cbad6d690096b42662a8e5febc43048f7f53"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/壁宿.md",
+      "bytes": 11025,
+      "sha256": "5d907d20b5f3a44016cb8bd3a5e77a41a349d2854748392c75b4f0b7d3c65ee1"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/奎宿.md",
+      "bytes": 14658,
+      "sha256": "ce0810424a890c1703d346b779fca767e1e45736864fe7b5d9aebf8287aaa4a9"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/女宿.md",
+      "bytes": 11461,
+      "sha256": "8859fce3b1e3e149263f52d466d5f179edc48f1267bab84abda8192fa6679ace"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/娄宿.md",
+      "bytes": 13087,
+      "sha256": "060731a5e65dea6dad8e5495e0402bef616c62c24e125e3f520f0d66e23d4a35"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/室宿.md",
+      "bytes": 12105,
+      "sha256": "b5171b162b445674c6ea223a52d2d54fe1b28b9a633a191bcf0977f563ec0d75"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/尾宿.md",
+      "bytes": 12191,
+      "sha256": "3c0c301f20fa386e33c6b1f154daec3bcd83996dee40e13ea9f682948f7e5aeb"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/张宿.md",
+      "bytes": 11395,
+      "sha256": "df0d9fd04ce9039ac69abb75ae49eb000f29994dde75c2f1f68abc9e9a3be195"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/心宿.md",
+      "bytes": 12081,
+      "sha256": "2ad83cd085e18b4ce72e7c5c8fe00bc86215f3c1fd55607267695946ba0f5b13"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/房宿.md",
+      "bytes": 13464,
+      "sha256": "b1995b02ac79f25f1516c466bf9dbe0ebae2cc83b72eb2c660485ee2e632fa74"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/斗宿.md",
+      "bytes": 12451,
+      "sha256": "ca91e08af435b081375adcb5a313b0ff050044eb6f0c356af3a059e05ed58967"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/星宿.md",
+      "bytes": 11907,
+      "sha256": "faa69c812c26d6a3fca0e00f939b9c15732e3c88e9862236209bef189785e535"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/昴宿.md",
+      "bytes": 12395,
+      "sha256": "c83c1a1c41faa34426af9d3646c04d918a0d24a5ea15cfed54c081949ca6c397"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/柳宿.md",
+      "bytes": 11436,
+      "sha256": "fad001d2befae287cb6b19ed80d86a915636564361878897ff3ef7f3d9003eb7"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/毕宿.md",
+      "bytes": 13459,
+      "sha256": "b694939583ca57ba3b2976a7fc6c485c83f3e69adaab93f0f7887f8a0516f60e"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/氐宿.md",
+      "bytes": 13534,
+      "sha256": "921b9261e3106b7799a7cfe951dded1bd788b3088f1a14a44c891cdc7d4f53de"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/牛宿.md",
+      "bytes": 11515,
+      "sha256": "5ab04cc5f17b0fbe2716334778a673aaec6c1d6df8e1d4a49e516f2514a6d5ff"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/箕宿.md",
+      "bytes": 11182,
+      "sha256": "596023e29764d5f12287900fbd6c7c5fe6122160a62a622e9d83f77a8f8f25cd"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/翼宿.md",
+      "bytes": 11508,
+      "sha256": "07845382080f3e29bede76106a17a9cbbbf875b92a17ca9f697b23bf3a3b0629"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/胃宿.md",
+      "bytes": 13401,
+      "sha256": "c7f12c144300049af52d401ef64446231ff210445ed800d221e69b3da8897328"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/虚宿.md",
+      "bytes": 11587,
+      "sha256": "b5d2c42484b4686039043f415e959b4efe0e58e84c859779da5dcde9354bfd84"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/角宿.md",
+      "bytes": 13259,
+      "sha256": "d222e8177f4ce091ea17ba9e35ba90895a447764792acee968aeb4b972c27c82"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/觜宿.md",
+      "bytes": 11897,
+      "sha256": "890dcce36f8112a230bb53dab272ced5dc6c670a2adec9e2458b94c93e16aa6d"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/轸宿.md",
+      "bytes": 12698,
+      "sha256": "7dc322daf57a6c65d5320c20a5b312ec24a20df4f4c94cbfb4ac8698c1bb78f8"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八宿/鬼宿.md",
+      "bytes": 12694,
+      "sha256": "c6f0fd04698425c8158a846662c7620380e9558a2fd395dc807eef30cb101c5b"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/二十八星宿类象速查.md",
+      "bytes": 35489,
+      "sha256": "9b79a19011a09145d052a785f23d612c13edee9abf4c993a50f013a903457679"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/四象/东方青龙.md",
+      "bytes": 667,
+      "sha256": "0e767133b5c21d56d11e3ac67c61516b726178a64b297e133861759a6a1b65a1"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/四象/北方玄武.md",
+      "bytes": 667,
+      "sha256": "9c48d6ecd7f366b11c8628e8b999d024c7c359d639223311f081615c97382af3"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/四象/南方朱雀.md",
+      "bytes": 667,
+      "sha256": "97d988a8e4c95ccfc767bb8b1d7dd9f4482fc39e76676165046ecf72d4158b8b"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/四象/西方白虎.md",
+      "bytes": 667,
+      "sha256": "925da8697fccbac295ac6c7110133db7f1cf4d296652a2b6c8e4af05d583fd56"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星宿/星宿专题分类索引.md",
+      "bytes": 839,
+      "sha256": "56e246c6bd51278386204127b48412f17c8506947bbcab8f4a6b64f0be524447"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/土星.md",
+      "bytes": 4773,
+      "sha256": "2035d78663a63f80eba98e2f84a222710e43a5d7af43f1bbf01c4a5a3f62041d"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/太阳.md",
+      "bytes": 6783,
+      "sha256": "7314070483e759c05956daecc13385ca7e14ccdb07156b5f532a445cb72a880f"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/月亮.md",
+      "bytes": 10181,
+      "sha256": "57a039809607642b63a51b26b1d4584cf4a24094524b98e88bf83f1cfe289461"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/月孛.md",
+      "bytes": 2000,
+      "sha256": "8ef75e971a3dd04027fb194b4efae0ee809229fd9bacd703510423adfdd0e765"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/木星.md",
+      "bytes": 4515,
+      "sha256": "8a14eb30fdd7da8a106c60b00a57117cb3d42c07420055d5a87e174cf50087a5"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/水星.md",
+      "bytes": 4817,
+      "sha256": "91fbfde18ba937a56325b1138dfffc7bad6fe0280d71fa6e0da070d41f885c05"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/火星.md",
+      "bytes": 4728,
+      "sha256": "c48f5646737ae82ae0e7f77675df1b4f303993f58daaef0316af825087bd7939"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/紫炁.md",
+      "bytes": 1668,
+      "sha256": "44c1daaf0f28df9fe5e2ca57f35ef1bd0a1be2c301c7078bc24ca513cd82ccf6"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/罗睺.md",
+      "bytes": 1669,
+      "sha256": "21d3237904cfb4bbd87e6463c4f6fe89e3eee19f06f70ae38b7545e0f24f24c4"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/计都.md",
+      "bytes": 1824,
+      "sha256": "479be74776dfdbc68df25cf20090c8f7f2361436f47dd31e0cbe3775abd1741f"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜/金星.md",
+      "bytes": 4541,
+      "sha256": "3652d37fde6c1a8215a2069d2d0a9e9ffd8dffbfabeb043df34e8dd5295e12dd"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/十一曜类象速查.md",
+      "bytes": 14582,
+      "sha256": "68a354d62a06b6c0f0f26d1681e969f22f7efde07f7fe8c814fb11162f8218fb"
+    },
+    {
+      "path": "shared-resources/04-类象字典/星曜/四余-作用关系与取象补充.md",
+      "bytes": 3416,
+      "sha256": "23be71736cddeaed043b5abfac9b7cbe9ac5ee727631bfd3969f8cbec877b42f"
+    },
+    {
+      "path": "shared-resources/05-规则库/七政四余/五行四时喜忌-七政.md",
+      "bytes": 5427,
+      "sha256": "4aa95ba4e3e5dc38a907c859f364766fe0a05222284a12692f777d5db37ed753"
+    },
+    {
+      "path": "shared-resources/05-规则库/七政四余/十一曜四时喜忌-条件分支.md",
+      "bytes": 26901,
+      "sha256": "5e1ae509f2db1a6290d3a056b028bce94ad0482361c79b08341a669ec69d091a"
+    },
+    {
+      "path": "shared-resources/05-规则库/七政四余/基础关系/余奴犯主与余奴抗杀.md",
+      "bytes": 2604,
+      "sha256": "26575c321a0e8069a64c9c89540c385be740c10600c94eb0de10a9f414942473"
+    },
+    {
+      "path": "shared-resources/05-规则库/七政四余/星曜入宫/星曜入宫通则.md",
+      "bytes": 1322,
+      "sha256": "0f09e058340507acd3fba1a2264574d7cdf4d8b6893ff54511386887e714a165"
+    },
+    {
+      "path": "shared-resources/05-规则库/七政四余/星曜四时论速查.md",
+      "bytes": 4051,
+      "sha256": "99c1af2b14b8095dcbbbad6d770a5d0736f63a1ab687dff19015b816eac4563e"
+    },
+    {
+      "path": "shared-resources/10-数据源与原始资料/七政四余-知识层次与取象边界.md",
+      "bytes": 2367,
+      "sha256": "f446f733dba02c1e4eee29993335150d281e1c4ed965eedfe66db4caa71aa539"
+    },
+    {
+      "path": "shared-resources/10-数据源与原始资料/七政四余补充/十一曜-季节条件复核.md",
+      "bytes": 14382,
+      "sha256": "6ca8d3e0f751673b74c9405f3b41abcf2ffe99d64f10decbd45ee69734f4b0d1"
+    },
+    {
+      "path": "shared-resources/README.md",
+      "bytes": 3174,
+      "sha256": "f05a0e68a9cd6e0afa884a4ca1fb3ed46a8e4286873f544d8014f331d590d49d"
+    },
+    {
+      "path": "tests/test_birth_time.py",
+      "bytes": 4351,
+      "sha256": "80f8df4ff65461dc42c521da45cf114a83ca1aa3e1b27558d8f2966bb884d5e4"
+    },
+    {
+      "path": "tests/test_contracts.py",
+      "bytes": 2681,
+      "sha256": "7d5f0f022ddbbeb3cab7dc7d32a32ea17a3ee910dc021b250ada5cf932432d2e"
+    },
+    {
+      "path": "tests/test_pdf_integration.py",
+      "bytes": 2441,
+      "sha256": "5a6f823f1317d3523840906f2e9aa2ba72d4a936adf0fc162d5d56fc7e6a895d"
+    },
+    {
+      "path": "tests/test_scripts.py",
+      "bytes": 14452,
+      "sha256": "2dce133a4ff4b06404a8a4c55ba719f58a38239988b1e7f2cc7e96fdb7c8fe32"
+    },
+    {
+      "path": "tests/test_timing_entrypoint.py",
+      "bytes": 848,
+      "sha256": "f1272a2ae488a54213c9abe60746a264964db437720c5c03ff8c7dfd4ff3a04b"
+    },
+    {
+      "path": "tests/test_timing_periods.py",
+      "bytes": 21193,
+      "sha256": "93c87b179a06e198d8f287ebdf459ea662627d640b5c37745f3faf7d76554e96"
+    },
+    {
+      "path": "tests/test_topstars.py",
+      "bytes": 7765,
+      "sha256": "5e447b53bda7ed81d911e32ef1a1c7613e611352d7586a9e85bc1f6f2904fd9b"
+    },
+    {
+      "path": "tests/test_transit_stars.py",
+      "bytes": 10927,
+      "sha256": "1b306f102714b869de5f2dc35fd00f68f3acb106e31b0d2f90598acb2b8a88e8"
+    },
+    {
+      "path": "开始使用.md",
+      "bytes": 2654,
+      "sha256": "0474f190ad3cd75fab7ceaa2305a088d5543beb4957dc4cd76bcbc66f5582feb"
+    }
+  ]
+}

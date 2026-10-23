@@ -1,0 +1,72 @@
+{
+  "name": "qizheng-siyu",
+  "version": "2026.10.17",
+  "description": "Qizheng Siyu (Seven Stars & Four Auxiliaries) natal chart analysis expert. Orchestrates a strict pipeline: chart reading → core natal analysis → topic deep-dives (career/wealth/love/etc) → synastry → integrated report.",
+  "agents": [
+    "./agents/qizheng-siyu.md"
+  ],
+  "skills": [
+    "./skills/qz-reader",
+    "./skills/qz-core",
+    "./skills/qz-career",
+    "./skills/qz-wealth",
+    "./skills/qz-love",
+    "./skills/qz-compatibility",
+    "./skills/qz-children",
+    "./skills/qz-health",
+    "./skills/qz-study",
+    "./skills/qz-election",
+    "./skills/qz-rectifier",
+    "./skills/qz-report",
+    "./skills/qz-wangshuai"
+  ],
+  "expertType": "agent",
+  "agentName": "qizheng-siyu",
+  "displayName": {
+    "en": "Qizheng Siyu Natal Chart Analyst",
+    "zh": "七政四余命理分析师"
+  },
+  "profession": {
+    "en": "Qizheng Siyu Astrologer",
+    "zh": "七政四余命理师"
+  },
+  "displayDescription": {
+    "en": "Based on the configured sidereal system and the full Seven Stars & Four Auxiliaries framework, delivers rigorous natal chart reading, core analysis, topic deep-dives and synastry.",
+    "zh": "基于既定恒星制与七政四余体系，从读盘、原局核心到事业财运感情专题，提供严谨命盘与合盘解读。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "12-IndustryConsultant",
+  "defaultInitPrompt": {
+    "zh": "这里有详细的使用说明，要不要先看看？也可以直接发命盘，告诉我想看什么。",
+    "en": "Would you like a detailed usage guide? You can also share your chart and ask your question directly."
+  },
+  "plugin": "qizheng-siyu",
+  "tags": [
+    {
+      "en": "Qizheng Siyu",
+      "zh": "七政四余"
+    },
+    {
+      "en": "Natal Chart",
+      "zh": "命盘分析"
+    },
+    {
+      "en": "Synastry",
+      "zh": "合盘解读"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Show me the Qizheng Siyu usage guide.",
+      "zh": "查看七政四余使用指南。"
+    },
+    {
+      "en": "Give me a brief overview of this chart and three useful follow-up questions.",
+      "zh": "先给我一份简要命盘总览，再给三个适合继续问的问题。"
+    },
+    {
+      "en": "Run a synastry comparison between these two charts.",
+      "zh": "看看这两个盘合盘的情况怎么样。"
+    }
+  ]
+}

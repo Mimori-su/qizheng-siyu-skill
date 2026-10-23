@@ -1,0 +1,597 @@
+{
+  "version": "2026-10-14-r5",
+  "skill_entries": [
+    "SKILL.md",
+    "qizheng-siyu-expert/skills/qz-career/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-children/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-compatibility/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-core/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-election/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-health/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-love/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-reader/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-rectifier/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-report/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-study/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-wangshuai/SKILL.md",
+    "qizheng-siyu-expert/skills/qz-wealth/SKILL.md"
+  ],
+  "shared_resources": [
+    "05-规则库/七政四余/十一曜四时喜忌-条件分支.md",
+    "03-术数模块/七政四余/本命格局分析系统.md",
+    "03-术数模块/七政四余/本命格局报告模板.md",
+    "10-数据源与原始资料/七政四余自用资料/星曜详解-来源说明.md",
+    "10-数据源与原始资料/七政四余取象大全-书稿接入说明.md"
+  ],
+  "docx_metadata_cleaned": [
+    "qizheng-siyu-expert/skills/qz-core/resources/二十八星宿类象全编(含目录+分类).docx",
+    "qizheng-siyu-expert/skills/qz-reader/resources/二十八星宿类象全编(含目录+分类).docx"
+  ],
+  "files": [
+    {
+      "path": "README_INDEX.md",
+      "bytes": 6497,
+      "sha256": "4ed391648d645b51770ae50362c3dc2330257b2643d9734217cea96ef9a080f8"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 23066,
+      "sha256": "5566f587f7a2b4e80fcd8e92092aea0e593e30e5eddaa068a14be20eb31c0842"
+    },
+    {
+      "path": "qizheng-siyu-expert/.codebuddy-plugin/plugin.json",
+      "bytes": 2367,
+      "sha256": "8ca14551b74447114386c4656124dc7169ef54af561e021476b172abe387d4d8"
+    },
+    {
+      "path": "qizheng-siyu-expert/README.md",
+      "bytes": 3167,
+      "sha256": "1da408dff8053937698f9eb1f922d5e0bf07e954585445291c39d8702fbe37d4"
+    },
+    {
+      "path": "qizheng-siyu-expert/agents/qizheng-siyu.md",
+      "bytes": 9716,
+      "sha256": "b92798563118ce8ead5652dd3081d734f9704ebb78e4d1e5d74e6c6ef9eee5f4"
+    },
+    {
+      "path": "qizheng-siyu-expert/avatars/expert.png",
+      "bytes": 412938,
+      "sha256": "7bb00a5e63ccde83faade3ae5df0ff853f42e8781b9b7815acf8fccdfe02e0bb"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/SKILL.md",
+      "bytes": 5175,
+      "sha256": "3acb8a52650b219f11a386e6cfdfc40c470f1b47578f8044c4eca4a358a672ba"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/examples/career_report.sample.md",
+      "bytes": 417,
+      "sha256": "c5361847c4e7e59dc51f4a27fe16dbbcbe15af9f2535979c162d839964dc63d9"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/resources/career_framework.md",
+      "bytes": 9966,
+      "sha256": "cca0ebafd455af5e4b3a275cedab7d9e41d6b01cfaf35a3713ce81422646037b"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/resources/career_report_rules.md",
+      "bytes": 4211,
+      "sha256": "c2bedfa14f90035e3e7dfbeff52ba9a18accfc8e9f1d9996c21d7baecee76760"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-career/resources/official_career_rules.md",
+      "bytes": 4030,
+      "sha256": "1dbe11c95975a144f8dd93539fdc7480f3d653de0ca5ab9f999ae4082a17e69e"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-children/SKILL.md",
+      "bytes": 2579,
+      "sha256": "cf9e8a7d4a2fd22ec7657a2381b3d7bb334d4c7f0d21643f460b4aac25960abd"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-children/examples/children_report.sample.md",
+      "bytes": 417,
+      "sha256": "a52e13a2e8fba4033a8fbc76c687dd4c7faaeda3491632b90f072efc601dfe38"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-children/resources/children_framework.md",
+      "bytes": 844,
+      "sha256": "0170cc1d87671c79cfe8cb0354d12831522a1ba68a316dcfe9818af0d8f00349"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-children/resources/children_report_rules.md",
+      "bytes": 792,
+      "sha256": "49252f0379bd05c1cf1e047669de7683f651a0dca1eab10e76aa94ec71cc9e64"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-compatibility/SKILL.md",
+      "bytes": 3694,
+      "sha256": "20290b6d3227f70e30ad4c01e90877201a6838299b4990bd42911fe2d3055cc9"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-compatibility/resources/compatibility_framework.md",
+      "bytes": 8650,
+      "sha256": "a0430a24598a790382afa169e182618f416cecad71a0e427248833b23c92bf75"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-compatibility/resources/relationship_modes.md",
+      "bytes": 5580,
+      "sha256": "83f3af60092d32eae96ac0a07621260821885db15c34c4187618b603943061ce"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-compatibility/resources/report_template.md",
+      "bytes": 5395,
+      "sha256": "cfd60549d88e4ea7c704c4205e7dcf51bc20183a35ca54dff1e0febb10be371a"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/SKILL.md",
+      "bytes": 14140,
+      "sha256": "3335b8ecb07b3a3971adb6ed7c17ced82431549a45a2d5776560dfa6d6aada50"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/examples/core_report.sample.md",
+      "bytes": 246,
+      "sha256": "741b0f15a3a5c34f9fcf5e1a6045d0c7440fa66779f182bad98ad334b4f142d9"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/core_concepts.md",
+      "bytes": 5012,
+      "sha256": "356c8bbaa1d0b64c46799d4f6af553d6ca9f03f38b612a3ecd061ec4deeb8237"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/degree_framework.md",
+      "bytes": 1782,
+      "sha256": "f923fb70632f93ecfb50c7c1793fed4fad6435768ebec1b4170854a46be114e9"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/dispute_risk_rules.md",
+      "bytes": 2421,
+      "sha256": "c71a205ac53df66ea7329f36f09a4039a65c55f1c7a2814c5447f3ede541f694"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/lodge_symbolism.md",
+      "bytes": 53133,
+      "sha256": "0d81f4b93ba8e7650e60de3732860f2793420174d682844b9f969ab85edc115c"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/named_pattern_catalog.md",
+      "bytes": 51174,
+      "sha256": "cda3206b14f450443c5ec806f6524725549d79adb68ca3d7cb8d828241b27a9c"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/named_patterns.md",
+      "bytes": 5803,
+      "sha256": "085e40a47f7b5fe0aa522e59c8b41f56b1b1d41c9d2ec537bdd27d3665e19e29"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/original_vs_transit.md",
+      "bytes": 22996,
+      "sha256": "56ae47b5b439744d41704c6b8ea76b1660bf1ea071f8614f6a8b06b697e89b1d"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/palace_framework.md",
+      "bytes": 4178,
+      "sha256": "55a4bc4ad666c6b646ebbaab51011fe3c48237f3e10a784c4ef75c952403b410"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/parents_framework.md",
+      "bytes": 11522,
+      "sha256": "03ac55da6a344e8253ccd9527a4b50565d381c3ac58386d2ae7d5f33f8ac1780"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/qa_rules.md",
+      "bytes": 349,
+      "sha256": "462eceac3032869a510759dd2717b4c522392c45084626b2e4eaaaf3695e1890"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/report_rules.md",
+      "bytes": 2287,
+      "sha256": "5e7f85a2b0251d50abfbd0901f54b077e777eac841b3a73c24f3ed9be703d3ba"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/star_symbolism.md",
+      "bytes": 45630,
+      "sha256": "986ae6bd7c6a85e91796827d8b4704bfbf5dab1ceed9125c5959de1f0ba0252d"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/taiji_rules.md",
+      "bytes": 1471,
+      "sha256": "5758d0a58e46203ed008b1f9d161dc253e4ff89cdd0d0dcb890f28e78de3d334"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/tianguan_analysis.md",
+      "bytes": 22591,
+      "sha256": "df56bee4f84f75320b9618848f859fee4b2fe2c39aab9f7549f323de777bd58f"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/wuxing_tiyong_xiji.md",
+      "bytes": 2370,
+      "sha256": "675d401ebb999132bcf985f6357ccd0c20679facb2fb935b81357fe1f45f6c7a"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/resources/二十八星宿类象全编(含目录+分类).docx",
+      "bytes": 56854,
+      "sha256": "b6a1a07027294e6f8a225db169cef3bad205d25178ea1ab1e00fa52d7844993f"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-core/scripts/build_core_report.py",
+      "bytes": 2623,
+      "sha256": "b281741be71d5bcfbb76b4eec8ea44179ef1b5a509f2faea9fb1e5fa08fddd1b"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-election/SKILL.md",
+      "bytes": 2592,
+      "sha256": "3d9da2ebaf520faa226db5ee29b71f4163077d09e656c5c49663b72363ac4cbe"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-election/examples/election_day_report.sample.md",
+      "bytes": 411,
+      "sha256": "f4c44bb43234ba8b0c13ae32677c5655e26a36461bdb6efc1fafff41e7b69bbe"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-election/resources/election_day_caution_rules.md",
+      "bytes": 726,
+      "sha256": "28000d568e60d389388b6c2b40f08de1743cf351a1cb2fcbb557de07692b9bd9"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-election/resources/election_day_framework.md",
+      "bytes": 891,
+      "sha256": "be3264fa8151a53ee76f3a2574c89bf362227fac06d2f46bed196b201d203aff"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-health/SKILL.md",
+      "bytes": 3383,
+      "sha256": "794c6721e7d4b6fb208e94bcd1522ecbd39b2142f5b9dd8a8bd51a157441fdb3"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-health/examples/health_report.sample.md",
+      "bytes": 417,
+      "sha256": "858a53f52f6d9af387bedef03b3453250c0c85f7ebc18e3a97fbcaf47c9ff9e0"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-health/resources/disease_symbolism_rules.md",
+      "bytes": 975,
+      "sha256": "9fbce18d9037004006755d6b79562c0b64140ba21d99f8c65227aa126ff9415e"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-health/resources/health_framework.md",
+      "bytes": 7335,
+      "sha256": "fa16450d1c565ba44eab38d0260db614a70818a65817053ede81582c6cb9d558"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-health/resources/medical_safety_rules.md",
+      "bytes": 1446,
+      "sha256": "f14b01bc0e2b455f17803776702d24a0b2bc8da2c38ff29598372e852094ea60"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/SKILL.md",
+      "bytes": 4580,
+      "sha256": "7082feeda805607433ac49c34aacaf192c172e69aea5c66448519504947b2ddb"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/examples/love_report.sample.md",
+      "bytes": 548,
+      "sha256": "3b8486d8b32fcb5a9ab7b3261445d1d6f5550663f70153dda73ddc11c9d210f7"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/resources/cautious_language.md",
+      "bytes": 1416,
+      "sha256": "02b7d67ef5c7eea6cf591117f063ee08ef899fc4a55d3cc6eb5f16bbc23a98b7"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/resources/client_report_template.md",
+      "bytes": 5946,
+      "sha256": "4fd7c4f733f76a281cad04072f4f24a8ac623655e777556e08e48151353145b4"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/resources/compatibility_rules.md",
+      "bytes": 1143,
+      "sha256": "d03631a628153448a121e36db2748dac81a62e279db06b071f206109205c671e"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/resources/love_framework.md",
+      "bytes": 2308,
+      "sha256": "23c964953941bee6f2dea8a24a2942d1c2dde298e512ccc9f429e6303c3a0bf5"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-love/resources/relationship_palace_rules.md",
+      "bytes": 5225,
+      "sha256": "9f260ad11f16c7f509b47e3f422bc63e71aea36fea5add4bd00a22d91f925fe5"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/SKILL.md",
+      "bytes": 5583,
+      "sha256": "bd8411937658272c50370b377466cc30947e104d49bbe127e5fb912ea694ab0f"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/examples/qz_structured_data.sample.md",
+      "bytes": 2379,
+      "sha256": "75d0fbcc4ee0eccc4771eea348511d8d921d5c2d5367b9aaa9e9a8e50c1fa494"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/annual_period_query.md",
+      "bytes": 7400,
+      "sha256": "8a3068845c69cafe0b83894af7f19c1cb5f8dab5812d414eb7e3628434fdab2c"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/chart_reading_rules.md",
+      "bytes": 3971,
+      "sha256": "455a4653c469a3db63f5d89d92d2d648d81a4198ec35fb990255988e2e0906fe"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/data_contract.md",
+      "bytes": 10820,
+      "sha256": "94cf7cefaddef57fdaa8fe83d4b9f26c72b6b0c7e52efb4f3ff00751723537db"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/extraction_rules.md",
+      "bytes": 3218,
+      "sha256": "2233c94903f9b30a3ae89c09d821445381c75663f2f21875949bbeb29a4aa8e5"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/missing_data_rules.md",
+      "bytes": 1183,
+      "sha256": "d07e5ad8e437c9d82af56eb6ef06c533b4efd417d318bd57866e0c735fd1bedd"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/transit_star_query.md",
+      "bytes": 6464,
+      "sha256": "19dbbe7e2531d85a5783e6abacbce6df662fada4a856b0803b6ff0a92e9522a2"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/validation_rules.md",
+      "bytes": 1708,
+      "sha256": "a57c56fdfe960c4a9d074249741e81484e90111702f2763f5b547aea4c6f291a"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/resources/二十八星宿类象全编(含目录+分类).docx",
+      "bytes": 56854,
+      "sha256": "b6a1a07027294e6f8a225db169cef3bad205d25178ea1ab1e00fa52d7844993f"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/calculate_periods.py",
+      "bytes": 19381,
+      "sha256": "8af443a6f6316065f3296b0841dfd0388320d041086056a183f7f45e0d29f584"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/calculate_transits.py",
+      "bytes": 10988,
+      "sha256": "764955dd47aae55b6917f1b90cc7a9307e92fb562e3747a7e078bfe945105c75"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/extract_pdf_text.py",
+      "bytes": 3447,
+      "sha256": "f451cf8437daddb004fac9891ffede4f5b593ade28aff40d39a386c4c0d2c376"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/parse_chart_text.py",
+      "bytes": 7215,
+      "sha256": "22d80b1377ac417c210e31b8b726b4c5be03dcd13091bed89a4892c448846bb4"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/render_pdf_pages.py",
+      "bytes": 2001,
+      "sha256": "ec6dce6385544fb890b59ca883842576c0fbbffedbf1e2d1775a74af8dc785fd"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/transit_requirements.txt",
+      "bytes": 21,
+      "sha256": "f026facb8062de084559c775eada4843f65e15a1b2f4a0a07020f59749af59f3"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/validate_structured_data.py",
+      "bytes": 2154,
+      "sha256": "0453b0a4b4da67cb1edc71a57814cc58490f4fb690b02254e89e31a7b97bcd7a"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-reader/scripts/vendor/equatorial_stellar.py",
+      "bytes": 184137,
+      "sha256": "495fee3bf8b31cd5804be867ca8df48ba53feff72f7569d6958a7022a26a71cc"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/SKILL.md",
+      "bytes": 3325,
+      "sha256": "4487f47aa5e399fd3f0a1d924aa70ba76ada843e65c4eba4588f90850d0178a0"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/examples/rectification_report.sample.md",
+      "bytes": 417,
+      "sha256": "095eb952bad76d622336febe931a0f6d0840fdfc1bbc772c7d1fe9bb6c43d140"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/resources/birth_time_rectification.md",
+      "bytes": 2069,
+      "sha256": "4faaaab716b6dbbcfa0ee9e0cc85df4cc5d24e8dd872ef7c4efed432cd5ff8b4"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/resources/event_collection_form.md",
+      "bytes": 1032,
+      "sha256": "63f49d8568ee1c7543e74675497b922a84e691aa929366abc958a5e9eccad6c9"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/resources/event_mapping_rules.md",
+      "bytes": 1179,
+      "sha256": "d3566166b8e4e2ac24681fb586cab9f1b96ed41398d0e288b8cfca17a61e3d0f"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-rectifier/resources/rectification_report_rules.md",
+      "bytes": 1037,
+      "sha256": "7a7b7585274aaf63c36ed348ccd8c19f56ce40863e8252eb75832b41974b9d9e"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/SKILL.md",
+      "bytes": 9659,
+      "sha256": "563b6f22808b7ca7b2efeb34ef01f0ed323f570007b72ab6ceb131e0db70e7e0"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/examples/full_report.sample.md",
+      "bytes": 303,
+      "sha256": "f4f1017abb46c5c839c36b43c53db0f7500d369fbf48fabcd9430a227c246244"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/parents_report_template.md",
+      "bytes": 4307,
+      "sha256": "3514760656b80fc4d1b79a30c06e10c60a70173e78117df718537c22d0cc326c"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/quick_overview_template.md",
+      "bytes": 2899,
+      "sha256": "25e0dd8ce327dbe2ee98613fb55050fd48fa9ec785f1c24404fac83f345df0a4"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/report_safety_rules.md",
+      "bytes": 666,
+      "sha256": "dc9885fe3b3c5ebb029299893e44b6013e2405185295e6bfc1904084b57549fa"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/report_sections.md",
+      "bytes": 1711,
+      "sha256": "022d704790ac8e318db6f3b151ed2fd587c87ad1c218979c07bcf4d34b26e7ae"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/report_style.md",
+      "bytes": 7769,
+      "sha256": "400ab7b3a5c5f9efb53447ab931ce6a0c0039d3edc52dcaff7c8f651263e4753"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/timing_report_template.md",
+      "bytes": 14385,
+      "sha256": "e8acdd1aeff02ce6cb4fe48a8edc68108d56f75f1dcba4d817efab3b545cd076"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/resources/usage_guide.md",
+      "bytes": 4403,
+      "sha256": "fdf088d650bd35e3727806145264a5e2fedd62a2b3899c59fa2af50870e5c4c2"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-report/scripts/assemble_report.py",
+      "bytes": 1534,
+      "sha256": "9d6ed88854e357164eaefa7efba22334f1f7a153ea05a3e8dba091fa2ce09117"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/SKILL.md",
+      "bytes": 2549,
+      "sha256": "116afde38a32e00d4959dc7bbf478674d87490d0f25ad9410386617740068888"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/examples/study_summary.sample.md",
+      "bytes": 832,
+      "sha256": "29219743db9e230fe2fa1ef35a4e6f80580a4e2f4a10c9d91525eadfe663a8bf"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/resources/chapter_qa.md",
+      "bytes": 477,
+      "sha256": "2d30d65f77696c5b955960be82487d8a1594262f2446df65bd4cdc9dbdecf1b1"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/resources/concept_cards.md",
+      "bytes": 360,
+      "sha256": "5baacc794f180687af29d146797de44d08ca57437938dab71f9623f363a08613"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/resources/course_index.md",
+      "bytes": 6544,
+      "sha256": "e84ff3a4d8519a66e39027c2854a5476e4debbdb99e23b80a1b22c3f2e2bb1a4"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/resources/glossary.md",
+      "bytes": 10923,
+      "sha256": "7ae87665508c677e395d7903412d610d10c4a7aea46080cf80489ef26a6cc758"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-study/resources/learning_routes.md",
+      "bytes": 741,
+      "sha256": "4ca431e9009b5d9c9d1cdefe873ca359b980cc90aa8b3fb25c7edcff9b77a908"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wangshuai/SKILL.md",
+      "bytes": 18354,
+      "sha256": "06fd3c6b7899f396377a47a1ab82cbb87517fcdf5f7f6b0ac916d2e03682f43b"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wealth/SKILL.md",
+      "bytes": 6219,
+      "sha256": "277fc4a3b42224568a037185080efa264b59ec23db00df509f728df9c1058d60"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wealth/examples/wealth_report.sample.md",
+      "bytes": 1904,
+      "sha256": "9216479dacd2111c78ec52698c3f3ce8f11517079fef4d80489516f2bdf6080b"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wealth/resources/finance_caution_rules.md",
+      "bytes": 825,
+      "sha256": "d25a02d4cb2cf03bd651ea68729d486e18ece297884e4dfcf7f95454115bf650"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wealth/resources/wealth_framework.md",
+      "bytes": 37531,
+      "sha256": "bc0d1fb9402991e9d7f20b4b8f7afbe7a62c9a8d53c926e4ab35fd91cd68a1e3"
+    },
+    {
+      "path": "qizheng-siyu-expert/skills/qz-wealth/resources/wealth_report_rules.md",
+      "bytes": 10633,
+      "sha256": "e583818382c73137db5c7387e64abcc32ef351372d956422920565e22fc6c94a"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/本命格局分析系统.md",
+      "bytes": 20064,
+      "sha256": "9fc1717e4f32bf99f1e18c22568b1f5c2302ef15249ca6575db3589979d763dc"
+    },
+    {
+      "path": "shared-resources/03-术数模块/七政四余/本命格局报告模板.md",
+      "bytes": 15150,
+      "sha256": "c3d50031860ee37914dbd3848352c6c8b095a350afbb171d30f0426078800e77"
+    },
+    {
+      "path": "shared-resources/05-规则库/七政四余/十一曜四时喜忌-条件分支.md",
+      "bytes": 29047,
+      "sha256": "b2256490e05f0f4ab94dd8d054416f61a03756a2422fd6f6564b2c2ffe22940d"
+    },
+    {
+      "path": "shared-resources/10-数据源与原始资料/七政四余取象大全-书稿接入说明.md",
+      "bytes": 3814,
+      "sha256": "75a5077a209f6a32eae13e8ea0db7e64a87f84379eb5c6bd9113b9fb9f25ec99"
+    },
+    {
+      "path": "shared-resources/10-数据源与原始资料/七政四余自用资料/星曜详解-来源说明.md",
+      "bytes": 3963,
+      "sha256": "e3334844860e85948179b135ce3b685e0c7759da0ef4ffcb92a9e887e3d674e2"
+    },
+    {
+      "path": "tests/test_contracts.py",
+      "bytes": 2681,
+      "sha256": "7d5f0f022ddbbeb3cab7dc7d32a32ea17a3ee910dc021b250ada5cf932432d2e"
+    },
+    {
+      "path": "tests/test_pdf_integration.py",
+      "bytes": 2441,
+      "sha256": "5a6f823f1317d3523840906f2e9aa2ba72d4a936adf0fc162d5d56fc7e6a895d"
+    },
+    {
+      "path": "tests/test_scripts.py",
+      "bytes": 14452,
+      "sha256": "2dce133a4ff4b06404a8a4c55ba719f58a38239988b1e7f2cc7e96fdb7c8fe32"
+    },
+    {
+      "path": "tests/test_timing_entrypoint.py",
+      "bytes": 848,
+      "sha256": "f1272a2ae488a54213c9abe60746a264964db437720c5c03ff8c7dfd4ff3a04b"
+    },
+    {
+      "path": "tests/test_timing_periods.py",
+      "bytes": 21193,
+      "sha256": "93c87b179a06e198d8f287ebdf459ea662627d640b5c37745f3faf7d76554e96"
+    },
+    {
+      "path": "tests/test_transit_stars.py",
+      "bytes": 10927,
+      "sha256": "1b306f102714b869de5f2dc35fd00f68f3acb106e31b0d2f90598acb2b8a88e8"
+    },
+    {
+      "path": "开始使用.md",
+      "bytes": 2690,
+      "sha256": "2de5d1cadffcc005c846eaef9aa7bc3c4e0be2ed96063b886e05b8231acb4a62"
+    }
+  ]
+}

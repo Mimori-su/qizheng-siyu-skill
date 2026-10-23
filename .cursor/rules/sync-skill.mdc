@@ -1,0 +1,13 @@
+---
+description: 改七政四余断盘规则时，工程和 Cursor 技能目录必须同时改
+alwaysApply: true
+---
+
+改断盘规则、总纲、专题、校准、案例库或 bobo 读法时，同一轮把两边写成同一版：
+
+- 工程：`/Users/zhengrongkai/Downloads/qizheng-siyu-duanpan/` 里的根目录 `SKILL.md`、`references/`，以及 `qizheng-siyu-skill/` 下的对应文件
+- Cursor 技能：`/Users/zhengrongkai/.cursor/skills-cursor/qizheng-siyu-skill/` 下的对应文件
+
+不要只改其中一边。改完核对两边关键句一致。`qizheng-siyu-bobo/` 是对方原文，不随总纲改写。
+
+`.cursor/skills/qizheng-siyu-duanpan` 是指向 `qizheng-siyu-skill` 的符号链接，给云端仓库用。改技能包即可，不要在那里另存一份。

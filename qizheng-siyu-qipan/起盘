@@ -1,0 +1,101 @@
+#!/usr/bin/env python3
+"""起盘：引擎出本命和流星位置，阳九限与月限在这里按立命排。"""
+import os
+import re
+import shutil
+import subprocess
+import sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ENGINE = os.path.abspath(os.path.join(HERE, "..", "qizheng-siyu-engine"))
+JAR = os.path.join(ENGINE, "app", "engine.jar")
+CLASSES = os.path.join(HERE, "classes")
+JAVA = os.path.join(HERE, "jre", "Contents", "Home", "bin", "java")
+NOISE = ("NOT FOUND", "DIALOG_", "HeadlessMessage", "HeadlessIO")
+
+
+def java_bin():
+    """Mac 用自带的 jre，Windows 用引擎里的 java.exe，Linux 云端用系统的 java。"""
+    if sys.platform == "darwin" and os.path.isfile(JAVA) and os.access(JAVA, os.X_OK):
+        return JAVA
+    if sys.platform == "win32":
+        win = os.path.join(ENGINE, "runtime", "bin", "java.exe")
+        if os.path.isfile(win):
+            return win
+    found = shutil.which("java")
+    if found:
+        return found
+    sys.stderr.write("找不到 Java 21。Mac 用 qipan/jre，Windows 用引擎 runtime，Linux 安装 openjdk-21-jre。\n")
+    sys.exit(1)
+
+
+def run(cmd):
+    proc = subprocess.run(cmd, cwd=ENGINE, capture_output=True, text=True)
+    err = "\n".join(
+        line for line in proc.stderr.splitlines()
+        if not any(mark in line for mark in NOISE)
+    )
+    if proc.returncode != 0:
+        sys.stderr.write(proc.stdout)
+        sys.stderr.write(err + "\n")
+        sys.exit(proc.returncode or 1)
+    if err.strip():
+        sys.stderr.write(err + "\n")
+    return proc.stdout
+
+
+def main():
+    if len(sys.argv) < 5:
+        sys.stderr.write(
+            "用法: 起盘 yyyy-mm-dd HH:MM 纬度 经度 [流年年=今年] [时区] [MM-DD]\n"
+        )
+        sys.exit(2)
+    args = sys.argv[1:]
+    birth = args[0]
+    query_year = args[4] if len(args) > 4 and args[4][:1].isdigit() and "-" not in args[4] else str(__import__("datetime").date.today().year)
+    zone = "Asia/Shanghai"
+    flow = None
+    rest = args[4:]
+    # 流年年、时区、MM-DD 都可选
+    positional = []
+    for item in rest:
+        if re.fullmatch(r"\d{4}", item):
+            query_year = item
+        elif re.fullmatch(r"\d{2}-\d{2}", item):
+            flow = item
+        elif "/" in item or item.startswith("Etc") or item.startswith("Asia") or item.startswith("UTC") or item.startswith("Europe") or item.startswith("America"):
+            zone = item
+        else:
+            positional.append(item)
+    if flow is None:
+        flow = __import__("datetime").date.today().strftime("%m-%d")
+    engine_args = [args[0], args[1], args[2], args[3], query_year, zone, flow]
+    java = java_bin()
+    chart = run([java, "-Dfile.encoding=UTF-8", "-cp", JAR, "org.athomeprojects.app.Main", *engine_args])
+    stars = run([
+        java, "-Dfile.encoding=UTF-8", "-Dengine.root=" + ENGINE,
+        "-cp", CLASSES + os.pathsep + JAR,
+        "org.athomeprojects.app.DumpFlow", *engine_args,
+    ])
+    ming = re.search(r"立命:\s*([子丑寅卯辰巳午未申酉戌亥])宫", chart)
+    month = re.search(r"四柱\(干支\):\s*\S+\s+\S([子丑寅卯辰巳午未申酉戌亥])", chart)
+    if not ming or not month:
+        sys.stdout.write(chart)
+        sys.stdout.write(stars)
+        sys.stderr.write("没有认出立命或月柱，阳九限未排。\n")
+        return
+    query_date = "%s-%s" % (query_year, flow)
+    extra = subprocess.run(
+        [sys.executable, os.path.join(HERE, "yangjiu.py"), ming.group(1) + "宫", month.group(1), birth, query_date],
+        capture_output=True, text=True,
+    )
+    sys.stdout.write(chart)
+    sys.stdout.write(extra.stdout)
+    if extra.returncode != 0:
+        sys.stderr.write(extra.stderr)
+    sys.stdout.write(stars)
+    sys.stdout.write("限只取上面的阳九限和月限。引擎换限表、年初限度、命度加三十度的小限，不作为限。\n")
+
+
+if __name__ == "__main__":
+    main()
