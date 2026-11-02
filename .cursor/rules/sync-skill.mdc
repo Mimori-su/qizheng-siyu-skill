@@ -3,7 +3,7 @@ description: 改七政四余断盘规则时，工程和 Cursor 技能目录必�
 alwaysApply: true
 ---
 
-改断盘规则、总纲、专题、校准、案例库或 bobo 读法时，同一轮把两边写成同一版：
+改断盘规则、总纲、专题、校准或 bobo 读法时，同一轮把两边写成同一版（案例库已取消，不再维护）：
 
 - 工程：`/Users/zhengrongkai/Downloads/qizheng-siyu-duanpan/` 里的根目录 `SKILL.md`、`references/`，以及 `qizheng-siyu-skill/` 下的对应文件
 - Cursor 技能：`/Users/zhengrongkai/.cursor/skills-cursor/qizheng-siyu-skill/` 下的对应文件
